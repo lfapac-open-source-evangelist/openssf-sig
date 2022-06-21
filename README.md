@@ -24,3 +24,16 @@ OpenSSF 中国工作组作为 OpenSSF 与中国用户之间的一个桥梁，将
 
 [sigstore](https://github.com/sigstore) 是一个权限的标准，用来对软件进行签名和验证，从而保障软件安全。目前下面由多个与安全相关的项目，诸如[fulcio](https://github.com/sigstore/fulcio)、[cosign](https://github.com/sigstore/cosign)、[gitsign](https://github.com/sigstore/gitsign)、[rekor](https://github.com/sigstore/rekor)等。
 
+## 如何参与 OpenSSF SIG
+
+流程待更新......
+
+## 其他
+
+- OpenSSF SIG 例会：待更新......
+- OpenSSF SIG 的发展规划：待更新......
+
+
+
+对此 SIG 有任何意见和建议，欢迎提 issue 提出。
+
